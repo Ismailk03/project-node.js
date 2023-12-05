@@ -55,7 +55,7 @@ git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd project-node.js
 npm install
 ```
 
